@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/EchoServer.dir/main_server.cpp.o -c /home/wuzm/muduo/my_muduo_2/main_server.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/main_server.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/EchoClient.dir/main_client.cpp.o -c /home/wuzm/muduo/my_muduo_2/main_client.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/main_client.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/Buffer.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/Buffer.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/Buffer.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/Channel.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/Channel.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/Channel.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/CommunicateChannel.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/CommunicateChannel.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/CommunicateChannel.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/ConnectChannel.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/ConnectChannel.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/ConnectChannel.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/EpollPoller.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/EpollPoller.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/EpollPoller.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/EventLoop.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/EventLoop.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/EventLoop.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/EventLoopThread.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/EventLoopThread.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/EventLoopThread.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/EventLoopThreadPool.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/EventLoopThreadPool.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/InetAddress.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/InetAddress.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/InetAddress.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/ListenChannel.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/ListenChannel.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/ListenChannel.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/Poller.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/Poller.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/Poller.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/Socket.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/Socket.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/Socket.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/TcpClient.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/TcpClient.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/TcpClient.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/TcpServer.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/TcpServer.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/TcpServer.cpp"
+},
+{
+  "directory": "/home/wuzm/muduo/my_muduo_2/build/src",
+  "command": "g++   -I/home/wuzm/muduo/my_muduo_2/include  -g   -std=gnu++14 -o CMakeFiles/MyMuduoLib.dir/Thread.cpp.o -c /home/wuzm/muduo/my_muduo_2/src/Thread.cpp",
+  "file": "/home/wuzm/muduo/my_muduo_2/src/Thread.cpp"
+}
+]

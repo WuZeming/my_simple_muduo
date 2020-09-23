@@ -1,0 +1,1 @@
+g++  -g   CMakeFiles/EchoClient.dir/main_client.cpp.o  -o EchoClient src/libMyMuduolib.a -lpthread -lrt 

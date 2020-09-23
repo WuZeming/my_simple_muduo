@@ -1,0 +1,1 @@
+g++  -g   CMakeFiles/EchoServer.dir/main_server.cpp.o  -o EchoServer src/libMyMuduolib.a -lpthread -lrt 
